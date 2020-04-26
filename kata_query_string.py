@@ -19,4 +19,3 @@ def to_query_string(data):
     pairs_list.sort()
     result = "&".join(pairs_list)
     return result
-
